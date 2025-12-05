@@ -21,7 +21,7 @@ pip install -r requirements.txt
 docker-compose up -d
 ```
 
-#### Utilisation
+### Utilisation
 
 **Lancer le CLI interactif** :
 ```bash
@@ -48,7 +48,7 @@ L'API est disponible sur `http://localhost:8000`
 ```bash
 pytest tests/ -v
 ```
-Les tests unitaires se trouvent dans `tests/test_domain.py` 
+Les tests unitaires se trouvent dans `app/tests/test_domain.py` 
 
 **Acceder au swagger** :
 - Swagger UI : http://localhost:8000/docs
