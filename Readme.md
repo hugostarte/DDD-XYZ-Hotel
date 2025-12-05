@@ -27,6 +27,8 @@ docker-compose up -d
 ```bash
 python hotel_cli.py
 ```
+![CLI](assets/CLI.png)  
+  
 
 Le menu principal propose :
 - Gestion des clients (création, liste)
@@ -50,6 +52,8 @@ Les tests unitaires se trouvent dans `tests/test_domain.py`
 
 **Acceder au swagger** :
 - Swagger UI : http://localhost:8000/docs
+  
+![Context Maps Diagram](assets/swagger.png)  
 
 
 
