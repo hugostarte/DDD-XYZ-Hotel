@@ -1,7 +1,7 @@
-- `Ubiquitous language`: lister les concepts métiers et leurs définitions
+note :`Ubiquitous language`: revient à lister les concepts métiers et leurs définitions
 
 
-##Prérequis metier  
+## Prérequis metier  
 Unicité de l'email : Un seul compte client par adresse email.  
 Paiement obligatoire par portefeuille : Aucun autre moyen de paiement accepté.  
 Conversion automatique : Toutes les devises sont converties en euros.  
@@ -12,17 +12,17 @@ Pas de remboursement : Aucun remboursement en cas d'annulation.
 Admin unique : Un seul compte administrateur sur la plateforme.  
   
 
-##Catégorie de chambre  
+## Catégorie de chambre  
 Chambre Standard : 50€/nuit (Lit 1 place, Wifi).  
 Chambre Supérieure : 100€/nuit (Lit 2 places, Wifi, TV écran plat, Minibar, Climatiseur).  
 Suite : 200€/nuit (Lit 2 places, Wifi, TV écran plat, Minibar, Climatiseur, Baignoire, Terrasse).  
   
   
-##Les utilisateurs  
+## Les utilisateurs  
 Client : Personne physique possedant un compte sur la plateforme avec une adresse email qui soit etre unique.  
 Administrateur : Personne responsable de la gestion de la plateforme et des réservations.  
   
-##Langage Metier
+## Langage Metier
 Réservation : Demande de séjour effectuée par un client pour une période donnée.  
 Portefeuille : Systeme de paiement interne contenant des fonds en euros.  
 Acompte : Versement initial de 50% du montant total lors de la réservation depuis son portefeuille    
